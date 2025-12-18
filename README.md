@@ -9,7 +9,7 @@ Most FER systems trained on standard datasets (like FER-2013) fail in real-world
 
 **The Solution:**
 1. **Data Collection:** Built a custom tool to harvest 3,000+ high-quality images.
-   *(See the Data Collection Tool here: [LINK_TO_YOUR_APP_REPO])*
+   *(See the Data Collection Tool here: [https://github.com/GoutamJangid/Custom-Face-Data-Collector])*
 2. **ETL Pipeline:** Engineered a script to clean, normalize, and split data (80/20).
 3. **Transfer Learning:** "Transplanted" knowledge from a general ResNet-18 to a personalized model.
 
