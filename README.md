@@ -1,6 +1,8 @@
 cat <<EOF > README.md
 # Personalized Emotion Recognition AI 🧠
 
+[![Watch Demo](https://img.shields.io/badge/LinkedIn-Watch_Demo_Video-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/gautam-jangid_pytorch-resnet18-opencv-activity-7407641786514411520-aXMe)
+
 > **A "Data-Centric" Approach to Facial Expression Recognition.**
 > This project demonstrates how a custom Data Engineering pipeline can improve model accuracy from **69% (Base)** to **99.6% (Personalized)** for real-time applications.
 
